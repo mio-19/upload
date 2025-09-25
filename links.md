@@ -6,3 +6,5 @@
 + https://www.printables.com/model/569562-framework-laptop-side-stand-extra-tolerance/files
 + https://www.printables.com/model/157526-framework-laptop-expansion-card-holder-4/files
 + https://www.printables.com/model/328421-framework-laptop-expansion-card-holder
++ https://www.printables.com/model/742486-framework-13-vertical-laptop-stand
++ https://www.printables.com/model/1064171-framework-13-laptop-stand
