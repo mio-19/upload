@@ -15,3 +15,4 @@
 + https://www.printables.com/model/824528-framework-laptop-hinged-linear-expansion-card-hold
 + https://www.printables.com/model/1051411-framework-portable-handheld-case-beth-deck-rev-15
 + https://www.printables.com/model/1416316-rick-roll-music-box
++ https://www.printables.com/model/1418058-hivepack-battery-storage
