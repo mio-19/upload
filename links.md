@@ -9,3 +9,7 @@
 + https://www.printables.com/model/742486-framework-13-vertical-laptop-stand
 + https://www.printables.com/model/1064171-framework-13-laptop-stand
 + https://www.printables.com/model/1417184-wulf-hexa-sculpture
++ https://www.printables.com/model/1205170-framework-13-laptop-display-to-portable-monitor-co
++ https://www.printables.com/model/1293051-air-inlet-spacer-for-framework-laptop-13-amd-ryzen
++ https://www.printables.com/model/585558-framework-laptop-lid-cover
++ https://www.printables.com/model/824528-framework-laptop-hinged-linear-expansion-card-hold
