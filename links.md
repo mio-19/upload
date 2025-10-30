@@ -18,3 +18,4 @@
 + https://www.printables.com/model/1418058-hivepack-battery-storage
 + https://www.printables.com/model/1415748-hard-drive-cage-1-6-bays/files
 + https://www.printables.com/model/577942-simple-indoor-glider-v2
++ https://www.printables.com/model/167650-steam-deck-clip-on-stand/files
