@@ -20,3 +20,4 @@
 + https://www.printables.com/model/577942-simple-indoor-glider-v2
 + https://www.printables.com/model/167650-steam-deck-clip-on-stand/files
 + https://www.printables.com/model/200585-steam-deck-stand/files
++ https://www.printables.com/model/741974-h1-case-for-heltec-v3-running-meshtastic/files
