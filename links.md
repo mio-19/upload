@@ -23,3 +23,4 @@
 + https://www.printables.com/model/741974-h1-case-for-heltec-v3-running-meshtastic/files
 + https://www.printables.com/model/936466-pager-style-holster-for-the-muziworks-h1-heltec-v3/files
 + https://makerworld.com/en/models/1384133-screen-repair-clamps
++ https://www.printables.com/model/1070854-holster-for-seeed-studio-t1000-e-meshtastic-tracke
