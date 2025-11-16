@@ -24,3 +24,4 @@
 + https://www.printables.com/model/936466-pager-style-holster-for-the-muziworks-h1-heltec-v3/files
 + https://makerworld.com/en/models/1384133-screen-repair-clamps
 + https://www.printables.com/model/1070854-holster-for-seeed-studio-t1000-e-meshtastic-tracke
++ https://makerworld.com/en/models/18331-phone-repair-lcd-holder-stand?from=search#profileId-17206
