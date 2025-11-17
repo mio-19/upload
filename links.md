@@ -25,3 +25,4 @@
 + https://makerworld.com/en/models/1384133-screen-repair-clamps
 + https://www.printables.com/model/1070854-holster-for-seeed-studio-t1000-e-meshtastic-tracke
 + https://makerworld.com/en/models/18331-phone-repair-lcd-holder-stand?from=search#profileId-17206
++ https://makerworld.com/en/models/1934909-magnetic-laptop-stand-for-razer-blade-14-2025
