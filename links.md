@@ -30,3 +30,4 @@
 + https://makerworld.com/en/models/1073842-gridfinity-i-fixit-phone-repairs
 + https://www.printables.com/model/163335-apple-macbook-pro-stand-131416-desktop-tangled-sta/files
 + https://www.printables.com/model/637301-vertical-laptop-stand-for-16-inch-m1m2m3m4-macbook/files
++ https://www.printables.com/model/1202776-geared-phone-stand/files
