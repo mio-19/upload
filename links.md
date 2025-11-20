@@ -27,3 +27,4 @@
 + https://makerworld.com/en/models/18331-phone-repair-lcd-holder-stand?from=search#profileId-17206
 + https://makerworld.com/en/models/1934909-magnetic-laptop-stand-for-razer-blade-14-2025
 + https://www.thingiverse.com/thing:4841850
++ https://makerworld.com/en/models/1073842-gridfinity-i-fixit-phone-repairs
