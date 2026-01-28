@@ -1,1 +1,2 @@
 onomichi_yakuza6_am5.zip filter=lfs diff=lfs merge=lfs -text
+fenderstudio.flatpak filter=lfs diff=lfs merge=lfs -text
